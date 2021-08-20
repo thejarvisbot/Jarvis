@@ -5,6 +5,30 @@ import Card from "./card";
 const Pricing = () => {
   const dark = useContext(ThemeContext);
   const light = !dark ? "light" : "";
+  const data = [
+    [
+      "- basic jarvis bot with voice features",
+      "- web scraping",
+      "- home appliance compatibility",
+      "- human facial recognition",
+      "- automate tasks",
+      "- average human interaction system",
+    ],
+    [
+      "- All in plan #1",
+      "- Holographic interactive representations",
+      "- high level versatile machine compatibility",
+      "- alien facial recognition",
+      "- Cloud computing",
+    ],
+    [
+      "- All in plan #2",
+      "- Quantum computing",
+      "- Inter-planetary communication",
+      "- Mediocre mindstone",
+      "- Sarcasm and Shakespearean human interaction",
+    ],
+  ];
   return (
     <section
       style={{
@@ -22,9 +46,9 @@ const Pricing = () => {
           justifyContent: "space-evenly",
         }}
       >
-        <Card featured={false} num={1} name={"BASIC PLAN"} />
-        <Card featured={true} num={2} name={"PREMIUM PLAN"} />
-        <Card featured={false} num={3} name={"PLUS PLAN"} />
+        <Card featured={false} num={1} name={"BASIC PLAN"} data={data[0]} />
+        <Card featured={true} num={2} name={"PREMIUM PLAN"} data={data[1]} />
+        <Card featured={false} num={3} name={"PLUS PLAN"} data={data[2]} />
       </section>
     </section>
   );
