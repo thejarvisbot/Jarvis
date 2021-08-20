@@ -1,0 +1,19 @@
+.li {
+    background-color: #034269;
+    border-radius: 14px;
+    padding: 1.5rem 3rem;
+    text-align: center;
+    height: 25%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto 0;
+}
+
+.li a {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+}
