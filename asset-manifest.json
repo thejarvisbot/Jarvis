@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Jarvis/static/css/main.60477a10.chunk.css",
+    "main.js": "/Jarvis/static/js/main.0f5cdb8f.chunk.js",
+    "main.js.map": "/Jarvis/static/js/main.0f5cdb8f.chunk.js.map",
+    "runtime-main.js": "/Jarvis/static/js/runtime-main.76d792bf.js",
+    "runtime-main.js.map": "/Jarvis/static/js/runtime-main.76d792bf.js.map",
+    "static/js/2.991c01af.chunk.js": "/Jarvis/static/js/2.991c01af.chunk.js",
+    "static/js/2.991c01af.chunk.js.map": "/Jarvis/static/js/2.991c01af.chunk.js.map",
+    "index.html": "/Jarvis/index.html",
+    "static/css/main.60477a10.chunk.css.map": "/Jarvis/static/css/main.60477a10.chunk.css.map",
+    "static/js/2.991c01af.chunk.js.LICENSE.txt": "/Jarvis/static/js/2.991c01af.chunk.js.LICENSE.txt",
+    "static/media/Logo-Jarvis.e49f628f.png": "/Jarvis/static/media/Logo-Jarvis.e49f628f.png",
+    "static/media/clip1.6ef1e37c.mp4": "/Jarvis/static/media/clip1.6ef1e37c.mp4",
+    "static/media/clip2.e916bd5e.mp4": "/Jarvis/static/media/clip2.e916bd5e.mp4",
+    "static/media/clip3.37753ec3.mp4": "/Jarvis/static/media/clip3.37753ec3.mp4",
+    "static/media/clip4.d0b84a88.mp4": "/Jarvis/static/media/clip4.d0b84a88.mp4",
+    "static/media/clip5.d6491c78.mp4": "/Jarvis/static/media/clip5.d6491c78.mp4",
+    "static/media/Card.css": "/Jarvis/static/media/pakata-goh-EJMTKCZ00I0-unsplash.3dfb06f2.jpg",
+    "static/media/global.css": "/Jarvis/static/media/jarvis-image.d861a9d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76d792bf.js",
+    "static/js/2.991c01af.chunk.js",
+    "static/css/main.60477a10.chunk.css",
+    "static/js/main.0f5cdb8f.chunk.js"
+  ]
+}
